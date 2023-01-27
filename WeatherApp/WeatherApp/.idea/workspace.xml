@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="041691f2-d25e-468e-9b88-232cb53f752d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/Egor_2022/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/Egor_2022/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/Egor_2022/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/Egor_2022/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/Egor_2022/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/Egor_2022/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/templates/blog_category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/templates/blog_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/templates/blog_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/static/img/project1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/static/img/project2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/static/img/project3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/templates/project_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/templates/project_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Egor_2022/Egor_2022/project/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hi_Django/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello_Django/hello_django/hello_django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hello_Django/hello_django/hello_django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello_Django/hello_django/hello_django/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hello_Django/hello_django/hello_django/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K8nyRH9WEDow3pxeYtKiuvBw6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/WeatherApp/WeatherApp"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="041691f2-d25e-468e-9b88-232cb53f752d" name="Changes" comment="" />
+      <created>1673365332079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673365332079</updated>
+    </task>
+    <servers />
+  </component>
+</project>
